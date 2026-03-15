@@ -7,9 +7,7 @@ This project demonstrates a simple pricing model for online currency exchange pl
 - Calculates buy and sell prices based on market rate and margin.
 - Models transaction volume as a function of pricing margin.
 - Simulates expected profit across a range of margins.
-- Visualizes results with two plots:
-  1. Profit vs Margin
-  2. Profit vs Volume and Spread
+- Visualizes the results
 
 ## Installation
 
